@@ -112,6 +112,13 @@ footer p {
     width: 100%;
 }
 
-footer a {
-    font-size: 3vw;
+
+@media(max-width: 600px) {
+    body p {
+        font-size: 1em;
+    }
+
+    body a {
+        font-size: 1em; 
+    }
 }
