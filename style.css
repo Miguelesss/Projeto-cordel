@@ -106,3 +106,12 @@ footer {
     background-color: black;
     height: 30px; 
 }
+
+footer p {
+    margin: 0;
+    width: 100%;
+}
+
+footer a {
+    font-size: 3vw;
+}
