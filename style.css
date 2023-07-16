@@ -44,6 +44,7 @@ header div {
 
 header h1 {
     font-family: 'Passion One', cursive;
+    font-variant: small-caps;
     font-weight: bold;
     margin: 0; 
     text-align: center;
